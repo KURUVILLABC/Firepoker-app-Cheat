@@ -53,6 +53,10 @@ observer.observe(document.body, {
     });
 ```
 
+# How to Cheat
+- Paste the code from script.js into the console the browser
+- to enable pasting the code in console, type "Allow Pasting
+
 # 🔍 Why this is a vulnerability (root cause)
 
 - Presentation ≠ Authority — The UI assumes the browser alone controls whether a card is hidden; it treats presentation as the ground truth.
